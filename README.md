@@ -21,6 +21,7 @@ src/
 ├── main/
 │   ├── java/com/carlosrdev/gestiongastos/
 │   │   ├── config/           # Configuration classes
+│   │   ├── controller/       # REST API controllers
 │   │   ├── health/           # Custom health indicators
 │   │   └── GestiongastosApplication.java
 │   └── resources/
@@ -162,6 +163,28 @@ GET /actuator/metrics/jvm.memory.used
 GET /actuator/metrics/http.server.requests
 ```
 
+## API Endpoints
+
+The application provides REST API endpoints for testing and future functionality:
+
+### Test Endpoints
+```bash
+# Test endpoint - returns application status and information
+GET /api/test/hello
+```
+
+**Response example:**
+```json
+{
+  "message": "Hello from Gestion Gastos Backend API",
+  "status": "Running successfully",
+  "timestamp": "2025-07-14T15:30:19",
+  "profile": "dev",
+  "port": "8080",
+  "version": "1.0.0"
+}
+```
+
 ## Environment Variables
 
 ### QA Environment
@@ -192,6 +215,7 @@ Logs are automatically written to the `logs/` directory with different configura
 - Implement proper error handling and logging
 - Write comprehensive tests for new features
 - Use appropriate logging levels per environment
+- Health checks and endpoints are covered by comprehensive unit and integration tests
 
 ## Deployment
 

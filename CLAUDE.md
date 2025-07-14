@@ -36,6 +36,7 @@ Use the Maven wrapper (`mvnw`/`mvnw.cmd`) instead of requiring global Maven inst
 - Base package: `com.carlosrdev.gestiongastos`
 - Main application class: `GestiongastosApplication.java`
 - Configuration classes: `com.carlosrdev.gestiongastos.config`
+- REST controllers: `com.carlosrdev.gestiongastos.controller`
 - Custom health indicators: `com.carlosrdev.gestiongastos.health`
 - Standard Maven directory layout (`src/main/java`, `src/test/java`, `src/main/resources`)
 
