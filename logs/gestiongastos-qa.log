@@ -1,0 +1,20 @@
+2025-07-14 14:58:36 [restartedMain] INFO  c.c.g.GestiongastosApplication - Starting GestiongastosApplication using Java 21.0.7 with PID 26568 (C:\Users\crive\Documents\GitHub\gestion-gastos-bk\target\classes started by crive in C:\Users\crive\Documents\GitHub\gestion-gastos-bk)
+2025-07-14 14:58:36 [restartedMain] INFO  c.c.g.GestiongastosApplication - The following 1 profile is active: "qa"
+2025-07-14 14:58:36 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-07-14 14:58:36 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-07-14 14:58:36 [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port 8081 (http)
+2025-07-14 14:58:36 [restartedMain] INFO  o.a.c.core.StandardService - Starting service [Tomcat]
+2025-07-14 14:58:36 [restartedMain] INFO  o.a.c.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.42]
+2025-07-14 14:58:36 [restartedMain] INFO  o.a.c.c.C.[.[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-07-14 14:58:36 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 523 ms
+2025-07-14 14:58:36 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2025-07-14 14:58:36 [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port 8081 (http) with context path '/'
+2025-07-14 14:58:36 [restartedMain] INFO  c.c.g.GestiongastosApplication - Started GestiongastosApplication in 1.097 seconds (process running for 1.603)
+2025-07-14 14:58:36 [restartedMain] INFO  c.c.g.config.StartupInfoRunner - =================================================
+2025-07-14 14:58:36 [restartedMain] INFO  c.c.g.config.StartupInfoRunner - Gestion Gastos Application Started Successfully
+2025-07-14 14:58:36 [restartedMain] INFO  c.c.g.config.StartupInfoRunner - Active Profile: qa
+2025-07-14 14:58:37 [restartedMain] INFO  c.c.g.config.StartupInfoRunner - Server Port: 8081
+2025-07-14 14:58:37 [restartedMain] INFO  c.c.g.config.StartupInfoRunner - Application URL: http://localhost:8081
+2025-07-14 14:58:37 [restartedMain] INFO  c.c.g.config.StartupInfoRunner - =================================================
+2025-07-14 14:58:48 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.t.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-07-14 14:58:48 [tomcat-shutdown] INFO  o.s.b.w.e.t.GracefulShutdown - Graceful shutdown complete

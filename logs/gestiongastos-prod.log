@@ -1,0 +1,9 @@
+2025-07-14 14:58:58 INFO  o.a.c.c.StandardService - Starting service [Tomcat]
+2025-07-14 14:58:58 INFO  o.a.c.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.42]
+2025-07-14 14:58:58 INFO  o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext
+2025-07-14 14:59:00 INFO  o.a.c.c.StandardService - Starting service [Tomcat]
+2025-07-14 14:59:00 INFO  o.a.c.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.42]
+2025-07-14 14:59:00 INFO  o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext
+2025-07-14 14:59:28 INFO  o.a.c.c.StandardService - Starting service [Tomcat]
+2025-07-14 14:59:28 INFO  o.a.c.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.42]
+2025-07-14 14:59:28 INFO  o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext
